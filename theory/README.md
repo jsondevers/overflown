@@ -19,4 +19,9 @@ I've always been fascinated by computer science theory and the underlying concep
 
 ### TODO
 
-- [ ] Add a table of contents
+- [ ] make table of contents nicer
+
+### Finished
+
+- [x] Add a README.md
+- [x] Add table of contents
