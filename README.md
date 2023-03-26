@@ -23,11 +23,13 @@ This is a place for overflowed thoughts and ideas. It is a place for me (and pon
 ## Table of Contents
 
 - [Theory](theory/README.md)
+- [Algorithms](algorithms/README.md)
 - [Git](git/README.md)
 - [API](api/README.md)
 - [Linux](linux/README.md)
 - [Vim](vim/README.md)
 - [Books](books/README.md)
+- [Writing](writing/README.md)
 
 ### TODO
 
