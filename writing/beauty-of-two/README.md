@@ -1,5 +1,7 @@
 # Beauty of Two
 
+## By Jason Devers
+
 The structure of this writing will be written as a proof for my claim for why the number $2$ is the most beautiful number, but this is not a formal proof. I am simiply writing this in a proof like structure as a fitting way to express my opinion.
 
 $Corollary:$ I've worn the number $2$ on my jersey for Lacrosse since I was freshman year of high school.
