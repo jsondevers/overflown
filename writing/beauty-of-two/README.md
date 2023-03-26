@@ -12,15 +12,15 @@ $Proof:$ Suppose by way of contradiction that there exists an even prime number 
 
 $Lemma:$ The number $2$ is what allows us to define the concept of parity.
 
-$ Proof: $ Consider the definition of oddness: a number, $x$ is odd if $ \exists $ a number, $y$, such that $x = 2y + 1$. Similarly, consider the definition of evenness: a number, $x$ is even if $ \exists $ a number, $y$, such that $x = 2y$. This definition of oddness and evenness is only possible because of the existence of the number $2$. $\square$
+$Proof:$ Consider the definition of oddness: a number, $x$ is odd if $\exists$ a number, $y$, such that $x = 2y + 1$. Similarly, consider the definition of evenness: a number, $x$ is even if $\exists$ a number, $y$, such that $x = 2y$. This definition of oddness and evenness is only possible because of the existence of the number $2$. $\square$
 
 $ Corollary: $ Binary is what allows us to communicate with computers.
 
-$ Proof: $ Computers are built to understand binary. $\square$
+$Proof:$ Computers are built to understand binary. $\square$
 
-$ Theorem: $ The number $2$ is the most beautiful number.
+$Theorem:$ The number $2$ is the most beautiful number.
 
-$ Proof: $
+$Proof:$
 
 ### TODO
 
