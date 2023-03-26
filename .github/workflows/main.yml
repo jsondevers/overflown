@@ -1,0 +1,22 @@
+name: README Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  readme-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install -g markdownlint-cli
+      - name: Check README.md
+        run: markdownlint README.md
+      - name: Verify pull request
+        uses: peter-evans/require-pull-request-action@v2
+        with:
+          branch: main
+          strict: true
