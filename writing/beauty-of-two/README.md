@@ -1,5 +1,7 @@
 # Beauty of Two
 
+The structure of this writing will be written as a proof for my claim for why the number $2$ is the most beautiful number, but this is not a formal proof. I am simiply writing this as a fitting way to express my opinion.
+
 $ Lemma:$ The number $2$ is the only even prime number.
 
 $ Proof: $ Suppose by way of contradiction that there exists an even prime number $p$ other than $2$. Then $p$ is an even number, and $p > 2$. Since $p$ is prime, it cannot be divisible by any number less than $p$. Therefore, $p$ cannot be divisible by any even number less than $p$. But $p$ is even, so $p$ is divisible by $2$. This is a contradiction, so there is no even prime number other than $2$. $\square$
@@ -11,3 +13,7 @@ $ Proof: $ Consider the definition of oddness: a number, $x$ is odd if $ \exists
 $ Theorem: $ The number $2$ is the most beautiful number.
 
 $ Proof: $
+
+### TODO
+
+- [ ] Write the proof of the theorem.
