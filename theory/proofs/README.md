@@ -70,3 +70,19 @@ A corollary is a proposition that follows in just a few logical steps from a the
 ### Implication
 
 Propositions of the form “If P, then Q” are called implications. This implication is often rephrased as “P IMPLIES Q.”
+
+### Conjunction
+
+Propositions of the form “P AND Q” are called conjunctions. This conjunction is often rephrased as “P AND Q.”
+
+### Disjunction
+
+Propositions of the form “P OR Q” are called disjunctions. This disjunction is often rephrased as “P OR Q.”
+
+### Negation
+
+Propositions of the form “NOT P” are called negations. This negation is often rephrased as “NOT P.”
+
+### Axiom
+
+An axiom is a proposition that is assumed to be true without proof.
