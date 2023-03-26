@@ -1,8 +1,20 @@
 # Overflown
 
 [![View Count](https://views.whatilearened.today/views/github/jsondevers/overflown.svg)](https://views.whatilearened.today/views/github/jsondevers/overflown.svg)
-
 ![GitHub license](https://img.shields.io/github/license/jsondevers/overflown)
+![GitHub issues](https://img.shields.io/github/issues/jsondevers/overflown)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jsondevers/overflown)
+![GitHub contributors](https://img.shields.io/github/contributors/jsondevers/overflown)
+![GitHub repo size](https://img.shields.io/github/repo-size/jsondevers/overflown)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jsondevers/overflown)
+![Obsidian Publish](https://img.shields.io/badge/Obsidian-Publish-blue)
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/jsondevers/overflown)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jsondevers/overflown)
+![GitHub top language](https://img.shields.io/github/languages/top/jsondevers/overflown) -->
+
+<!-- ![GitHub watchers](https://img.shields.io/github/watchers/jsondevers/overflown?style=social)
+![GitHub stars](https://img.shields.io/github/stars/jsondevers/overflown?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jsondevers/overflown?style=social) -->
 
 ## A place for overflowed thoughts and ideas
 
