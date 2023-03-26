@@ -11,13 +11,10 @@ This is a place for overflowed thoughts and ideas. It is a place for me (and pon
 - [API](api/README.md)
 - [Linux](linux/README.md)
 - [Vim](vim/README.md)
+- [Books](books/README.md)
 
 ### TODO
 
-- [ ] Add a table of contents
-- [ ] Add a list of topics/ideas/thoughts
-- [ ] Add a list of projects
-- [ ] Add a list of books
 - [ ] Add a contribution guide
 - [ ] Add a code of conduct
 - [ ] Add github workflows
@@ -27,3 +24,5 @@ This is a place for overflowed thoughts and ideas. It is a place for me (and pon
 
 - [x] Add a README.md
 - [x] Add a LICENSE.md
+- [x] Add a table of contents
+- [x] Add a list of books
