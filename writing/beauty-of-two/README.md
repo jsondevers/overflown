@@ -6,7 +6,7 @@ $ Proof: $ Suppose by way of contradiction that there exists an even prime numbe
 
 $ Corollary: $ The number $2$ is what allows us to define the concept of parity.
 
-$ Proof: $ Consider the definition of oddness: a number, $x$ is odd if $ \exists $ a number, $y$, such that $x = 2y + 1$. Similarly, consider the definition of evenness: a number, $x$ is even if $ \exists $ a number, $y$, such that $x = 2y$.
+$ Proof: $ Consider the definition of oddness: a number, $x$ is odd if $ \exists $ a number, $y$, such that $x = 2y + 1$. Similarly, consider the definition of evenness: a number, $x$ is even if $ \exists $ a number, $y$, such that $x = 2y$. This definition of oddness and evenness is only possible because of the existence of the number $2$. $\square$
 
 $ Theorem: $ The number $2$ is the most beautiful number.
 
