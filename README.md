@@ -14,6 +14,8 @@ This is a place for overflowed thoughts and ideas. It is a place for me (and pon
 - [ ] Add a list of books
 - [ ] Add a contribution guide
 - [ ] Add a code of conduct
+- [ ] Add github workflows
+- [ ] Add github actions for CI/CD and linting and testing
 
 ### Finished
 
