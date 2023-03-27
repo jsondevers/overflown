@@ -5,7 +5,6 @@ Thank you for your interest in contributing to Overflown! This document will hel
 ## Guide
 
 1. [Creating a new Directory](###Creating-a-new-Directory)
-2. Adding problems
 
 ### Creating a new Directory
 
