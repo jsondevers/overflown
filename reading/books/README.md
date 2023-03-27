@@ -18,5 +18,3 @@ The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition | D
 - [ ] Add more books
 - [ ] Add more categories
 - [ ] Potentially move to specific directory
-
-### Finished
