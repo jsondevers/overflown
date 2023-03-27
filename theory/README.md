@@ -7,10 +7,20 @@ I've always been fascinated by computer science theory and the underlying concep
 - [Proofs](proofs/README.md)
 <!-- - [Logic](logic/README.md)
 - [Algorithms](algorithms/README.md)
+    - Leetcode?
 - [Data Structures](data-structures/README.md)
+    - Arrays
+    - Linked Lists
+    - Binary Trees
+    - Stacks
 - [Mathematics](mathematics/README.md)
+    - Big O notation
 - [Computer Science](computer-science/README.md)
 - [Programming Languages](programming-languages/README.md)
+    - Compilers
+    - Garbage collectors
+    - Low Vs High level
+    - Different uses
 - [Operating Systems](operating-systems/README.md)
 - [Databases](databases/README.md)
 - [Networking](networking/README.md)
