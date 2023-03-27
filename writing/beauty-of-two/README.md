@@ -2,7 +2,7 @@
 
 ## By Jason Devers
 
-The structure of this writing will be written as a proof for my claim for why the number $2$ is the most beautiful number, but this is not a formal proof. I am simiply writing this in a proof like structure as a fitting way to express my opinion.
+The structure of this writing will be written as a proof for my claim for why the number $2$ is the most beautiful number, but this is not a formal proof. I am simiply writing this in a proof like structure as a way to ironically prove my claim.
 
 $Corollary:$ I've worn the number $2$ on my jersey for Lacrosse since I was freshman year of high school.
 
@@ -18,12 +18,14 @@ $Proof:$ Consider the definition of oddness: a number, $x$ is odd if $\exists$ a
 
 $ Corollary: $ Binary is what allows us to communicate with computers.
 
-$Proof:$ Computers are built to understand binary. $\square$
+$Proof:$ Digital systems use binary to communicate with the system. Programming languages and software in our computers break down to a set of instructions in assembly that can be broken down into binary which is what the comptuer understands. Thus, all programming is an abstraction from binary. $\square$
+
+$Colrollary:$ The powers of $2$ are so heavily used because of their representation in binary.
+
+$2^0 = 1$, $2^1=2$,
+
+$Proof:$ The powers of $2$ are used in many different ways in computing. For example, the size of a data type in a programming language is often a power of $2$. The size of a data type is the number of bits that are used to represent that data type. For example, the size of an integer in C is $4$ bytes, or $32$ bits. Powers of two make it easier to design and implement digital systems because their binary representations are simple and regular. Similary, memory addresses and buffer sizes are often chosen to be powers of two to make them easier to work with. $\square$
 
 $Theorem:$ The number $2$ is the most beautiful number.
 
 $Proof:$
-
-### TODO
-
-- [ ] Write the proof of the theorem.
