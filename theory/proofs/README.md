@@ -70,3 +70,5 @@ A corollary is a proposition that follows in just a few logical steps from a the
 ### Implication
 
 Propositions of the form “If P, then Q” are called implications. This implication is often rephrased as “P IMPLIES Q.”
+
+An analogy that I like to think of to remember the effects of lemmas, corollaries, and theorems is that of a drug. The main drug's purpose is the theorem, the underlying processes that make the purpose true are the lemmas, and the side effects are the corollaries.
