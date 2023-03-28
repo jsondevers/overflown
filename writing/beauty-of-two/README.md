@@ -4,7 +4,7 @@
 
 The structure of this writing will be written as a proof for my claim for why the number $2$ is the most beautiful number, but this is not a formal proof. I am simply writing this in a proof like structure as a way to ironically prove my claim.
 
-$Corollary:$ I've worn the number $2$ on my jersey for Lacrosse since I was freshman year of high school.
+$Corollary:$ I've worn the number $2$ as my jersey number for Lacrosse since I was freshman in high school.
 
 $Proof:$  [My Hudl Account from HS](https://www.hudl.com/profile/8521344/Jason-Devers) $\square$
 
@@ -16,7 +16,7 @@ $Lemma:$ The number $2$ is what allows us to define the concept of parity.
 
 $Proof:$ Consider the definition of oddness: a number, $x$ is odd if $\exists$ a number, $y$, such that $x = 2y + 1$. Similarly, consider the definition of evenness: a number, $x$ is even if $\exists$ a number, $y$, such that $x = 2y$. This definition of oddness and evenness is only possible because of the existence of the number $2$. $\square$
 
-$ Corollary:$ Binary is what allows us to communicate with computers.
+$Corollary:$ Binary is what allows us to communicate with computers.
 
 $Proof:$ Digital systems use binary to communicate with the system. Programming languages and software in our computers break down to a set of instructions in assembly that can be broken down into binary which is what the computer understands. Thus, all programming is an abstraction from binary. $\square$
 
