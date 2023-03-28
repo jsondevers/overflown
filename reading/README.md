@@ -1,4 +1,6 @@
 # Reading
 
-1. [books](books/README.md)
-2. [papers](papers/README.md)
+## Table of Contents
+
+- [books](books/README.md)
+- [papers](papers/README.md)
