@@ -39,7 +39,7 @@ When adding an algorithm, please follow the following format:
 - [Problem Name](###Problem-Name)
 - [Procedure](###Procedure) (strongly recommend using pseudocode and not language specific code)
 - [Analysis](###Analysis) (must include time and space complexity)
-- 
+- [Proof](###Proof) (optional)
 ```
 
 ### TODO
