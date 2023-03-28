@@ -1,15 +1,10 @@
 # Dynamic Programming
 
-
 ## Introduction
 
 Dynamic programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions using a memory-based data structure (array, map,etc). Each of the subproblem solutions are indexed in some way, typically based on the values of their input parameters, so as to facilitate looking them up.
 
 Dynamic programming differs from divide-and-conquer in that we typically solve the subproblems in a specific order, and we solve each subproblem only once. This is in contrast to divide-and-conquer, where we typically solve the subproblems in a recursive manner, and we solve each subproblem multiple times.
-
-## Solving Dynamic Programming Problems
-
-Dynamic programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions using a memory-based data structure (array, map,etc).
 
 ## Table of Contents
 
@@ -18,15 +13,13 @@ Dynamic programming is a method for solving a complex problem by breaking it dow
 
 ### Steps to Solve a DP Problem
 
-
 1. Visualize Examples
 2. Find appropriate sub-problem
 3. Finding relationships among sub-problems
 4. Generalize the relationship
 5. Implement by solving sub-problems in order
 
-
-## Solving SRTBOT recursively (Taken from MIT 6.006, Erik Demaine) I owe a lot of my ability to solve DP problems Professor Demaine and MIT OpenCourseWare
+### Solving SRTBOT recursively (Taken from MIT 6.006, Erik Demaine) I owe a lot of my ability to solve DP problems Professor Demaine and MIT OpenCourseWare
 
 1. `S`ub problem definition
     - Describe the meaning of the subproblem in words
@@ -42,7 +35,7 @@ Dynamic programming is a method for solving a complex problem by breaking it dow
     - $\displaystyle \sum_{x \in X}work(x)$ or if $work(x) = O(W)$ for all $x \in X$, then $|X| \cdot O(W)$
     - $work(x)$ measures *nonrecursive* work in relation; treat recursions as taking $O(1)$ time
 
-## How to relate subproblems to solutions
+### How to relate subproblems to solutions
 
 - The general approach we’re following to define a relation on subproblem solutions:
   - Identify a question about a subproblem solution that, if you knew the answer to, would reduce to “smaller” subproblem(s)
@@ -55,7 +48,7 @@ answers, so brute forcing is not too expensive
 - Often (but not always) the nonrecursive work to compute the relation is equal to the number
 of answers we’re trying
 
-## Merge sort using SRTBOT Framework
+### Merge sort using SRTBOT Framework
 
 - Sub problem: $S(i,j)=$ sorted array on elements $A[i:j]$ for $0 \leq i \leq j \leq n$
 - Relation: $S(i,j)=merge(S(i,m), S(m,j))$ where $m=\lfloor \frac{i+j}{2} \rfloor$
@@ -63,5 +56,3 @@ of answers we’re trying
 - Base cases: $S(i,i+1) = [A[i]]$
 - Original problem: $S(0,n)$
 - Time analysis: $T(n)=2T(\frac{n}{2})+O(n) = O(n \log n)$
-
-
