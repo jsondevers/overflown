@@ -1,4 +1,4 @@
-# [`The Shell`](https://missing.csail.mit.edu/2020/course-shell/)
+# The Shell
 
 ## What is the shell?
 
