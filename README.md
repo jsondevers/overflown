@@ -19,6 +19,12 @@
 
 This is a place for overflowed thoughts and ideas. It is a place for me (and potentially others) to write down my thoughts and ideas, and to share them with the world. I hope you enjoy reading them as much as I enjoy writing them. I've always felt overwhelmed by the amount of things I want to learn and do, and I hope this will help me organize my thoughts and ideas and act as a brain dump for myself.
 
+## The Beauty of 2
+
+I have always loved the number 2 and I wrote a paper that was not for a class or anything but because I've been thinking about it for awhile. I structured it like a proof because I wanted to now connect my love for the number to computer science. I hope you enjoy it!
+
+- [Beauty of 2](writing/beauty-of-2/README.md)
+
 ## Table of Contents
 
 - [Theory](theory/README.md)

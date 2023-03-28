@@ -29,4 +29,4 @@ I've always been fascinated by computer science theory and the underlying concep
 
 ### TODO
 
-- [ ] make table of contents organized, perhaps with defintions and what each table contains
+- [ ] make table of contents organized, perhaps with definitions and what each table contains
