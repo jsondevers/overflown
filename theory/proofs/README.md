@@ -1,5 +1,7 @@
 # Proofs
 
+This was heavily influenced from [MIT's Mathmatics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and was one of my favorite courses.
+
 ## Proofs should be
 
 1. Complete - The proof should be complete, meaning that it should
@@ -41,48 +43,18 @@ You are writing software that could depend on someone's life.
 
 ## Definitions
 
-### Proof
 
-A *mathematical* proof of a proposition is a chain of *logical deductions*
-leading to the proposition from a base set of *axioms*.
+Definition | Meaning | Example
+--- | --- | ---
+Proposition | A statement (communication) that is either true or false. | (TODO)
+Axiom | An axiom is a proposition that is assumed to be true without proof. | (TODO)
+Predicate | A predicate can be understood as a proposition whose truth depends on the value of one or more variables. | (TODO)
+Theorem | Important true propositions are called theorems. | (TODO)
+Lemma | A lemma is a preliminary proposition useful for proving later propositions. | (TODO)
+Corollary | A corollary is a proposition that follows in just a few logical steps from a theorem. | (TODO)
+Implication | Propositions of the form “If P, then Q” are called implications. This implication is often rephrased as “P IMPLIES Q.” | (TODO)
+Conjunction | Propositions of the form “P AND Q” are called conjunctions. This conjunction is often rephrased as “P AND Q.” | (TODO)
+Disjunction | Propositions of the form “P OR Q” are called disjunctions. This disjunction is often rephrased as “P OR Q.” | (TODO)
+Negation | Propositions of the form “NOT P” are called negations. This negation is often rephrased as “NOT P.” | (TODO)
+Proof | A *mathematical* proof of a proposition is a chain of *logical deductions* leading to the proposition from a base set of *axioms*. | (TODO)
 
-### Proposition
-
-A proposition is a statement (communication) that is either true or
-false.
-
-### Predicate
-
-A predicate can be understood as a proposition whose truth depends on the value of one or more variables.
-
-### Theorem
-
-Important true propositions are called theorems.
-
-### Lemma
-
-A lemma is a preliminary proposition useful for proving later propositions.
-
-### Corollary
-
-A corollary is a proposition that follows in just a few logical steps from a theorem.
-
-### Implication
-
-Propositions of the form “If P, then Q” are called implications. This implication is often rephrased as “P IMPLIES Q.”
-
-### Conjunction
-
-Propositions of the form “P AND Q” are called conjunctions. This conjunction is often rephrased as “P AND Q.”
-
-### Disjunction
-
-Propositions of the form “P OR Q” are called disjunctions. This disjunction is often rephrased as “P OR Q.”
-
-### Negation
-
-Propositions of the form “NOT P” are called negations. This negation is often rephrased as “NOT P.”
-
-### Axiom
-
-An axiom is a proposition that is assumed to be true without proof.
