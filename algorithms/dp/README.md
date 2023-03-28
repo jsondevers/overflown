@@ -1,5 +1,6 @@
 # Dynamic Programming
 
+
 ## Introduction
 
 Dynamic programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions using a memory-based data structure (array, map,etc). Each of the subproblem solutions are indexed in some way, typically based on the values of their input parameters, so as to facilitate looking them up.
@@ -8,11 +9,22 @@ Dynamic programming differs from divide-and-conquer in that we typically solve t
 
 ## Solving Dynamic Programming Problems
 
+Dynamic programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions using a memory-based data structure (array, map,etc).
+
+## Table of Contents
+
+- [Weighted Interval Scheduling](wis/README.md)
+- [Knapsack](knapsack/README.md)
+
+### Steps to Solve a DP Problem
+
+
 1. Visualize Examples
 2. Find appropriate sub-problem
 3. Finding relationships among sub-problems
 4. Generalize the relationship
 5. Implement by solving sub-problems in order
+
 
 ## Solving SRTBOT recursively (Taken from MIT 6.006, Erik Demaine) I owe a lot of my ability to solve DP problems Professor Demaine and MIT OpenCourseWare
 
@@ -51,3 +63,5 @@ of answers we’re trying
 - Base cases: $S(i,i+1) = [A[i]]$
 - Original problem: $S(0,n)$
 - Time analysis: $T(n)=2T(\frac{n}{2})+O(n) = O(n \log n)$
+
+

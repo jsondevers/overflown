@@ -2,28 +2,40 @@
 
 ## By Jason Devers
 
-The structure of this writing will be written as a proof for my claim for why the number $2$ is the most beautiful number, but this is not a formal proof. I am simiply writing this in a proof like structure as a fitting way to express my opinion.
+The structure of this writing will be written as a proof for my claim for why the positive integer $2$ is the most beautiful number, but this is not a formal proof. I am simply writing this in a proof like structure as a way to ironically prove my claim.
 
-$Corollary:$ I've worn the number $2$ on my jersey for Lacrosse since I was freshman year of high school.
+This was *not* any assignment for any class, I just wanted to write this.
+
+$Corollary:$ I've worn the number $2$ as my jersey positive integer for Lacrosse since I was freshman in high school.
 
 $Proof:$  [My Hudl Account from HS](https://www.hudl.com/profile/8521344/Jason-Devers) $\square$
 
-$Lemma:$ The number $2$ is the only even prime number.
+$Lemma$ $1$: The number $2$ is the only even prime positive integer.
 
-$Proof:$ Suppose by way of contradiction that there exists an even prime number $p$ other than $2$. Then $p$ is an even number, and $p > 2$. Since $p$ is prime, it cannot be divisible by any number less than $p$. Therefore, $p$ cannot be divisible by any even number less than $p$. But $p$ is even, so $p$ is divisible by $2$. This is a contradiction, so there is no even prime number other than $2$. $\square$
+$Proof:$ Suppose by way of contradiction that there exists an even prime positive integer $p$ other than $2$. Then $p$ is an even positive integer, and $p > 2$. Since $p$ is prime, it cannot be divisible by any positive integer less than $p$. Therefore, $p$ cannot be divisible by any even positive integer other than 1 and $p$. But $p$ is even, so $p$ is divisible by $2$. This is a contradiction, so there is no even prime positive integer other than $2$. $\square$
 
-$Lemma:$ The number $2$ is what allows us to define the concept of parity.
+$Lemma$ $2$: The number $2$ is what allows us to define the concept of parity.
 
-$Proof:$ Consider the definition of oddness: a number, $x$ is odd if $\exists$ a number, $y$, such that $x = 2y + 1$. Similarly, consider the definition of evenness: a number, $x$ is even if $\exists$ a number, $y$, such that $x = 2y$. This definition of oddness and evenness is only possible because of the existence of the number $2$. $\square$
+$Proof:$ Consider the definition of oddness: a positive integer, $x$ is odd if $\exists$ a positive integer, $k$, such that $x = 2k + 1$. Similarly, consider the definition of evenness: a positive integer, $k$ is even if $\exists$ a positive integer, $k$, such that $x = 2k$. This definition of oddness and evenness is only possible because of the existence of the positive integer $2$. $\square$
 
-$ Corollary: $ Binary is what allows us to communicate with computers.
+$Corollary:$ Binary is what allows us to communicate with computers.
 
-$Proof:$ Computers are built to understand binary. $\square$
+$Proof:$ Digital systems use binary to communicate with the system. Programming languages and software in our computers break down to a set of instructions in assembly that can be broken down into binary which is what the computer understands. Thus, all programming is an abstraction from binary. $\square$
 
-$Theorem:$ The number $2$ is the most beautiful number.
+$Corollary:$ The powers of $2$ are so heavily used because of their representation in binary.
+
+$2^0 = 1$, $2^1=2$, $2^2=4$, $2^3=8$, , $2^4=16$, $2^5=32$, , $2^6=64$, $2^7=128$, $2^8=256$, $2^9=512$, $2^{10}=1024$, $2^{11}=2048$, $2^{12}=4096$, ..., $\displaystyle \prod_{i = 0} ^{n}2$  
+
+$Proof:$ The powers of $2$ are used in many different ways in computing. For example, the size of a data type in a programming language is often a power of $2$. The size of a data type is the positive integer of bits that are used to represent that data type. For example, the size of an integer in C is $4$ bytes, or $32$ bits. Powers of two make it easier to design and implement digital systems because their binary representations are simple and regular. Similarly, memory addresses and buffer sizes are often chosen to be powers of two to make them easier to work with. $\square$
+
+$Lemma$ $3$: The number $2$ is the only positive integer that satisfies the following: $2^2 \equiv  2 \cdot 2 \equiv 2 + 2 $.
+
+$Proof:$ To start, let us break down $2^2$, and write this as $a^a$, we know that this is the same as $a \cdot a$ and if we look at the next term, $2 \cdot 2$, we can see that this is the same as $a \cdot a$. Now, let us look at the last term, $2 + 2$, we can see that this is the same as $a + a$ which was the same as $a \cdot a$. Now, we can see that $2^2 \equiv 2 \cdot 2 \equiv 2 + 2$. $\square$
+
+$Theorem:$ The positive integer $2$ is the most beautiful positive integer.
 
 $Proof:$
 
 ### TODO
 
-- [ ] Write the proof of the theorem.
+- [ ] Finish proof about $2^2 \equiv 2 \cdot 2 \equiv 2 + 2$ and show that only $2$ satisfies this.
