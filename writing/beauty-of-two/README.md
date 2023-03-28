@@ -30,8 +30,12 @@ $Proof:$ The powers of $2$ are used in many different ways in computing. For exa
 
 $Lemma$ $3$: The number $2$ is the only positive integer that satisfies the following: $2^2 \equiv  2 \cdot 2 \equiv 2 + 2 $.
 
-$Proof:$ To start let us break down $2^2$, and write this as $a^a$, we know that this is the same as $a \cdot a$ and if we look at the next term, $2 \cdot 2$, we can see that this is the same as $a \cdot a$. Now, let us look at the last term, $2 + 2$, we can see that this is the same as $a + a$. Now, we can see that $2^2 \equiv 2 \cdot 2 \equiv 2 + 2$. $\square$
+$Proof:$ To start, let us break down $2^2$, and write this as $a^a$, we know that this is the same as $a \cdot a$ and if we look at the next term, $2 \cdot 2$, we can see that this is the same as $a \cdot a$. Now, let us look at the last term, $2 + 2$, we can see that this is the same as $a + a$ which was the same as $a \cdot a$. Now, we can see that $2^2 \equiv 2 \cdot 2 \equiv 2 + 2$. $\square$
 
 $Theorem:$ The positive integer $2$ is the most beautiful positive integer.
 
 $Proof:$
+
+### TODO
+
+- [ ] Finish proof about $2^2 \equiv 2 \cdot 2 \equiv 2 + 2$ and show that only $2$ satisfies this.
