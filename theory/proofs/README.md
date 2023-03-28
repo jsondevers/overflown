@@ -43,7 +43,6 @@ You are writing software that could depend on someone's life.
 
 ## Definitions
 
-Create a table for definitions.
 
 Definition | Meaning | Example
 --- | --- | ---
@@ -58,3 +57,4 @@ Conjunction | Propositions of the form “P AND Q” are called conjunctions. Th
 Disjunction | Propositions of the form “P OR Q” are called disjunctions. This disjunction is often rephrased as “P OR Q.” | (TODO)
 Negation | Propositions of the form “NOT P” are called negations. This negation is often rephrased as “NOT P.” | (TODO)
 Proof | A *mathematical* proof of a proposition is a chain of *logical deductions* leading to the proposition from a base set of *axioms*. | (TODO)
+
