@@ -37,9 +37,9 @@ A *stronger* $Proof$ of $Lemma$ $3$: Imagine $\exists$ a number $x$ such that: $
 If $x$ is positive then we could take the logarithms of either side and see:
 
 - $log(x^x) = log((x)(x))$
-- $xlog(x) = log(x) + log(x)$
-- $xlog(x) - 2log(x) = 0$
-- (x-2)log(x) = 0$
+- $x log(x) = log(x) + log(x)$
+- $x log(x) - 2log(x) = 0$
+- $(x-2)log(x) = 0$
 
 Thus, we proceed by cases:
 
