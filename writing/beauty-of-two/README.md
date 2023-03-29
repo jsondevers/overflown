@@ -12,7 +12,7 @@ $Proof:$  [My Hudl Account from HS](https://www.hudl.com/profile/8521344/Jason-D
 
 $Lemma$ $1$: The number $2$ is the only even prime positive integer.
 
-$Proof:$ Suppose by way of contradiction that there exists an even prime positive integer $p$ other than $2$. Then $p$ is an even positive integer, and $p > 2$. Since $p$ is prime, it cannot be divisible by any positive integer less than $p$. Therefore, $p$ cannot be divisible by any even positive integer other than 1 and $p$. But $p$ is even, so $p$ is divisible by $2$. This is a contradiction, so there is no even prime positive integer other than $2$. $\square$
+$Proof:$ Suppose by way of contradiction that there exists an even prime positive integer $p$ other than $2$. Then $p$ is an even positive integer, and $p > 2$. Since $p$ is prime, it cannot be divisible by any positive integer other than 1 and $p$. But $p$ is even, so $p$ is divisible by $2$. This is a contradiction, so there is no even prime positive integer other than $2$. $\square$
 
 $Lemma$ $2$: The number $2$ is what allows us to define the concept of parity.
 
