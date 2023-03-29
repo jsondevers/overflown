@@ -2,7 +2,7 @@
 
 ## By Jason Devers
 
-The structure of this writing will be written as a proof for my claim for why the positive integer $2$ is the most beautiful number, but this is not a formal proof. I am simply writing this in a proof like structure as a way to ironically prove my claim.
+The structure of this writing will be written as a proof for my claim for why the number $2$ is the most beautiful number, but this is not a formal proof. I am simply writing this in a proof like structure as a way to ironically prove my claim.
 
 This was *not* any assignment for any class, I just wanted to write this.
 
