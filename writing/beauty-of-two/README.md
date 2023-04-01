@@ -64,3 +64,8 @@ In conclusion, the only possible value of $x$ that satisfies both equations is $
 $Theorem:$ The positive integer $2$ is the most beautiful positive integer.
 
 $Proof:$
+
+### TODO
+
+- [ ] Add symmetry
+- [ ] Add pairs
