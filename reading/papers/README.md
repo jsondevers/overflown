@@ -1,6 +1,8 @@
 # Papers
 
-| Author | Title | Year | Genre |
+
+| Author | Title | Year | Description |
 | --- | --- | --- | --- |
-Gödel's incompleteness theorems |Kurt Gödel | 1931 | Math |
-| | | | |
+| [David Mount](link) | [It's okay to be skinny, if your friends are fat](https://www.cs.umd.edu/~mount/Papers/cgc99-smpack.pdf) | 1999 | Sliding Midpoint kd-trees |
+| Kurt Gödel's| [Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) | 1931 | Incompleteness Theorems |
+
