@@ -29,9 +29,4 @@ I've always been fascinated by computer science theory and the underlying concep
 
 ### TODO
 
-- [ ] make table of contents nicer
-
-### Finished
-
-- [x] Add a README.md
-- [x] Add table of contents
+- [ ] make table of contents organized, perhaps with definitions and what each table contains
