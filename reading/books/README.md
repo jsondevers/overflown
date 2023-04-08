@@ -22,3 +22,10 @@ The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition | D
 | Author | Title | Year | Genre |
 | --- | --- | --- | --- |
 | The 5 Elements of Effective Thinking | Michael Starbird & Edward Burger | 2012 | Critical Thinking |
+
+## Proofs
+
+| Author | Title | Year | Genre |
+| --- | --- | --- | --- |
+| Mathematical Proofs: A Transition to Advanced Mathematics | Charlene Boyer | 2009 | Mathematics |
+| Fundamental Proof Methods in Computer Science | Konstantine Arkoudas & David Musser | 2017 | Computer Science |
