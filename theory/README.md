@@ -5,6 +5,7 @@ I've always been fascinated by computer science theory and the underlying concep
 ## Table of Contents
 
 - [Proofs](proofs/README.md)
+- [Big-O Notation](big-O/README.md)
 <!-- - [Logic](logic/README.md)
 - [Algorithms](algorithms/README.md)
     - Leetcode?
