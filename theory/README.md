@@ -13,6 +13,7 @@ I've always been fascinated by computer science theory and the underlying concep
     - Linked Lists
     - Binary Trees
     - Stacks
+    - Heaps
 - [Mathematics](mathematics/README.md)
     - Big O notation
 - [Computer Science](computer-science/README.md)
@@ -22,10 +23,16 @@ I've always been fascinated by computer science theory and the underlying concep
     - Low Vs High level
     - Different uses
 - [Operating Systems](operating-systems/README.md)
+    - Advantages/disadvantages
+    - Linux
+        - How to use
 - [Databases](databases/README.md)
 - [Networking](networking/README.md)
 - [Security](security/README.md)
-- [Artificial Intelligence](artificial-intelligence/README.md) -->
+- [Artificial Intelligence](artificial-intelligence/README.md) --
+    - machine learning
+>
+    
 
 ### TODO
 
