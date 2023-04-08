@@ -20,3 +20,8 @@ Big-O notation is a way to describe the performance of a function in terms of ho
 $O(1) < O(\log(n)) < O(\sqrt{n}) < O(n)$
 
 $< O(n \log(n)) < O(n^2) < O(n^3) < O(2^n) < O(n!) < O(n^n)$
+
+### Resources
+
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Time Complexity](https://en.wikipedia.org/wiki/Time_complexity)
