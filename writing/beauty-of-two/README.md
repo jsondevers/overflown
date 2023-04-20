@@ -10,6 +10,10 @@ $Corollary:$ I've worn the number $2$ as my jersey positive integer for Lacrosse
 
 $Proof:$  [My Hudl Account from HS](https://www.hudl.com/profile/8521344/Jason-Devers) $\square$
 
+$Lemma$ $0$: 2 is the best
+
+$Proof:$ "First is the worst, second is the best"
+
 $Lemma$ $1$: The number $2$ is the only even prime positive integer.
 
 $Proof:$ Suppose by way of contradiction that there exists an even prime positive integer $p$ other than $2$. Then $p$ is an even positive integer, and $p > 2$. Since $p$ is prime, it cannot be divisible by any positive integer other than 1 and $p$. But $p$ is even, so $p$ is divisible by $2$. This is a contradiction, so there is no even prime positive integer other than $2$. $\square$
