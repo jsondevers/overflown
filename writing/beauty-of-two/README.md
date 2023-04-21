@@ -65,6 +65,10 @@ From this equation, we see that either $x-2 = 0$ or $x = 0$. However, we have al
 
 In conclusion, the only possible value of $x$ that satisfies both equations is $x = 2$.
 
+$Lemma$ $4$: The number $2$ provides the foundation of answering questions.
+
+$Proof:$ Something can either be either true or false (1 or 0). We can see this in the form of truth tables and various other applications. It's fundamental in answering dynamic programming problems, for example, starting from the end of the optimal solution and asking if this element is included in the optimal solution, yes or no? Or even in Shakespeare, "To be or, or not to be". There are two options and somehow many problems can be reduced into a yes or no question. $\square$
+
 $Theorem:$ The positive integer $2$ is the most beautiful positive integer.
 
 $Proof:$
