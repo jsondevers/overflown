@@ -8,6 +8,7 @@
 - [Greedy](greedy/README.md)
 - [Divide and Conquer](divide-and-conquer/README.md)
 - [Sorting](sorting/README.md)
+- [Dynamic Programming](dp/README.md)
 
 ### TODO
 
