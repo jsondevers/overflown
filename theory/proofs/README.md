@@ -1,6 +1,10 @@
 # Proofs
 
-This was heavily influenced from [MIT's Mathmatics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and was one of my favorite courses.
+## Introduction
+
+When I first started doing proofs, I found them difficult to understand wildly abstract. However, after a lot of practice and reading, I found them to be very useful and a great way to communicate ideas. I also found that they are very similar to writing code. In fact, I would argue that writing code is a form of proof. The only difference is that the compiler is the one that checks the proof. This is why I think that proofs are so important. They are a way to communicate ideas and to check that the ideas are correct. This is why I think that proofs are so important. They are a way to communicate ideas and to check that the ideas are correct. Doing a proof requires a new way of thinking and problem solving and once your proof is complete, it feels similar to the satisfaction of finishing a piece of code. Best part of a proof is that once you prove something, it's proven for the rest of time, that thing you showed that holds true for $n > 2$ will always hold true for $n > 2$ and I think that's pretty cool. It gives me piece of mind to know that this proof will continue to be true without having me to look at it and maintain it.
+
+This was heavily influenced from [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and was one of my favorite courses.
 
 ## Proofs should be
 
@@ -43,7 +47,6 @@ You are writing software that could depend on someone's life.
 
 ## Definitions
 
-
 Definition | Meaning | Example
 --- | --- | ---
 Proposition | A statement (communication) that is either true or false. | (TODO)
@@ -57,4 +60,3 @@ Conjunction | Propositions of the form “P AND Q” are called conjunctions. Th
 Disjunction | Propositions of the form “P OR Q” are called disjunctions. This disjunction is often rephrased as “P OR Q.” | (TODO)
 Negation | Propositions of the form “NOT P” are called negations. This negation is often rephrased as “NOT P.” | (TODO)
 Proof | A *mathematical* proof of a proposition is a chain of *logical deductions* leading to the proposition from a base set of *axioms*. | (TODO)
-
