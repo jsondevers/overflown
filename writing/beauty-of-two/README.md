@@ -73,3 +73,5 @@ $Proof:$
 
 - [ ] Add symmetry
 - [ ] Add pairs
+- [ ] decision problems (YES/NO)
+- [ ] when things get to 3 options in NP, it starts to become NP-Hard
