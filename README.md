@@ -20,16 +20,10 @@ I have always loved the number 2 and I wrote a paper that was not for a class or
 
 ## Table of Contents
 
-- [Algorithms](algorithms/README.md)
-- [API](api/README.md)
-- [Data Structures](data-structures/README.md)
-- [Git](git/README.md)
-- [Linux](linux/README.md)
 - [Programming](programming/README.md)
 - [Reading](reading/README.md)
 - [Writing](writing/README.md)
 - [Theory](theory/README.md)
-- [Vim](vim/README.md)
 - [Websites](websites/README.md)
 
 ### Contributing
