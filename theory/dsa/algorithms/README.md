@@ -13,6 +13,7 @@
 ### TODO
 
 - [ ] Add more algorithms
+- [ ] note this idea of [finger searching](https://en.wikipedia.org/wiki/Finger_search)
 
 ### Finished
 
