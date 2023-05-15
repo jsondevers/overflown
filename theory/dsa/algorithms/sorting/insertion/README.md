@@ -6,6 +6,7 @@
   - [Problem Name](#problem-name)
   - [Procedure](#procedure)
   - [Analysis](#analysis)
+    - [Resources](#resources)
 
 ## Problem Name
 
@@ -39,3 +40,7 @@ end function
 
 - Time Complexity: O(N^2)
 - Auxiliary Space: O(1)
+
+### Resources
+
+[Wikipedia - Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
