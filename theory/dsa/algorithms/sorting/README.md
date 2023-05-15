@@ -7,4 +7,4 @@
 - [Heap Sort](heap/README.md) (TODO)
 - [Radix Sort](radix/README.md) (TODO)
 - [Counting Sort](counting/README.md) (TODO)
-- [Insertion Sort](insertion/README.md) (TODO)
+- [Insertion Sort](insertion/README.md)
